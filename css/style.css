@@ -565,6 +565,7 @@ html {
     }
 
     .navigation-menu-button-active {
+        width: 0;
         height: 0;
     }
 
