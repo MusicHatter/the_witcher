@@ -456,6 +456,7 @@ html {
         position: absolute;
         top: 0;
         right: 0;
+        z-index: 1;
 
         width: 250px;
         height: 282px;
@@ -522,6 +523,7 @@ html {
         position: absolute;
         right: 30px;
         top: 35px;
+        z-index: 2;
 
         display: block;
         width: 40px;
